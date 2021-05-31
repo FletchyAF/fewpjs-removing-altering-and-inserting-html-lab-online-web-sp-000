@@ -1,2 +1,2 @@
-document.body.removeChild(body.querySelector('main'))
+document.querySelector(#main-main)
 
